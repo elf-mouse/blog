@@ -1,0 +1,17 @@
+# Site settings
+title: Elf-mousE's corner
+email: ifmouz@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  乐行者：Elf-mousE
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
+url: "http://elf-mouse.github.io" # the base hostname & protocol for your site
+#twitter_username: elf_mouse
+github_username:  Elf-mousE
+
+# Build settings
+markdown: kramdown
+
+#highlighter: pygments
+highlighter: rouge
+
+encoding: utf-8
