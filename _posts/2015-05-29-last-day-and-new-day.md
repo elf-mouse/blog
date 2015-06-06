@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  LAST day & NEW day
+title:  "LAST day & NEW day"
 date:   2015-05-29 22:00
 categories: diary
 ---
